@@ -1,5 +1,19 @@
 # Prologue
 
+The tranquil serenity of the fertile river delta was shattered as a heavy storm beyond imagining descended upon the vast ocean that bordered the peaceful farmlands. The once bustling fields stood abandoned as the farmers fled into their sturdy homes, terror etched across their faces. Whispers of divine wrath spread like wildfire, a retribution for any sins committed by the residents of the village.
+
+Amidst the deafening cacophony of thunder and the relentless downpour, a sudden and brilliant flash of heavenly lightning pierced through the inky sky. It was as though the very fabric of reality had been torn asunder, leaving a jagged rupture in the cosmic tapestry - a gateway into the void that spanned between worlds.
+
+From this rupture a figure was ejected, ashen white against the tumultuous backdrop of the storm. His presence was an enigma, his body battered and broken. Crimson trails of blood dripped from a large, gaping wound in his abdomen, painting a macabre masterpiece against his pallid skin. The figure's breathing was laboured and ragged, and he clung to the precipice of death itself. With each struggling breath, he sank into the churning waters below, disappearing beneath the tumultuous waves and swallowed into the unforgiving abyss.
+
+As minutes stretched into eternity, the storm's fury began to abate. The thunderous roars faded into distant echoes, and the relentless rain transformed into a gentle drizzle. It was then that the impossible occurred.
+
+From the depths of the ocean, the figure rose once more by an unseen force. He ascended slowly, his ashen form breaking the surface of the water. It was as if some divine hand had reached down to cradle him - it was the river itself. With uncanny grace, the river seemed to take charge. The body, battered and near lifeless, was carried upstream against its current. Against all reason and natural laws, the ashen figure floated serenely, a ghost caressed by the river's mysterious embrace.
+
+The farmers, peering out from their shelters, watched in awe as the enigmatic figure and the river's inexplicable benevolence defied the gods' wrathful tempest. Unbeknownst to them, a tale of the extraordinary had begun.
+
+____
+
 As the first rays of the sun kissed the horizon, casting a golden glow upon the tranquil waters of the sacred river Ganga, a sage stood immersed in devotion. The sage, adorned in simple saffron robes with his forehead plastered with three horizontal lines of dried ash with a thin line of sandalwood paste bisecting them, stood waist-deep in the flowing currents, his eyes closed in serene concentration. The cool morning breeze gently caressed his weathered face as he prepared to perform the sacred ritual of Sandhyavandanam. He cupped a handful of the sacred water and rubbed his yajnopavita, three sets of three white circular thread that ran diagonally from his left shoulder to his right waist, cleaning it.
 
 His long black hair cascaded down his back. In his arms, that were unusually muscular and calloused for a brahmin, he held a copper vessel filled with water. With each breath, he recited the ancient chants and hymns, invoking the divine forces that resided in the celestial realms above. The sage's voice, resonant and filled with spiritual energy, harmonized with the rustling leaves and the rhythmic flow of the holy river.
@@ -85,3 +99,6 @@ Uruvarukamiva bandhanan,
 Mrityor mukshiya ma mrtat.
 ```
 
+____
+
+This

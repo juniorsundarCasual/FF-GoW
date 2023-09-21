@@ -1,0 +1,268 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>God of War</title>
+        <meta name="robots" content="noindex" />
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var html = document.querySelector('html');
+            var sidebar = null;
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="introduction.html">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">Volume 1</li><li class="chapter-item expanded "><a href="volume_1/prologue.html"><strong aria-hidden="true">1.</strong> Prologue</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">God of War</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <div style="break-before: page; page-break-before: always;"></div><h1 id="prologue"><a class="header" href="#prologue">Prologue</a></h1>
+<p>The tranquil serenity of the fertile river delta was shattered as a heavy storm beyond imagining descended upon the vast ocean that bordered the peaceful farmlands. The once bustling fields stood abandoned as the farmers fled into their sturdy homes, terror etched across their faces. Whispers of divine wrath spread like wildfire, a retribution for any sins committed by the residents of the village.</p>
+<p>Amidst the deafening cacophony of thunder and the relentless downpour, a sudden and brilliant flash of heavenly lightning pierced through the inky sky. It was as though the very fabric of reality had been torn asunder, leaving a jagged rupture in the cosmic tapestry - a gateway into the void that spanned between worlds.</p>
+<p>From this rupture a figure was ejected, ashen white against the tumultuous backdrop of the storm. His presence was an enigma, his body battered and broken. Crimson trails of blood dripped from a large, gaping wound in his abdomen, painting a macabre masterpiece against his pallid skin. The figure's breathing was laboured and ragged, and he clung to the precipice of death itself. With each struggling breath, he sank into the churning waters below, disappearing beneath the tumultuous waves and swallowed into the unforgiving abyss.</p>
+<p>As minutes stretched into eternity, the storm's fury began to abate. The thunderous roars faded into distant echoes, and the relentless rain transformed into a gentle drizzle. It was then that the impossible occurred.</p>
+<p>From the depths of the ocean, the figure rose once more by an unseen force. He ascended slowly, his ashen form breaking the surface of the water. It was as if some divine hand had reached down to cradle him - it was the river itself. With uncanny grace, the river seemed to take charge. The body, battered and near lifeless, was carried upstream against its current. Against all reason and natural laws, the ashen figure floated serenely, a ghost caressed by the river's mysterious embrace.</p>
+<p>The farmers, peering out from their shelters, watched in awe as the enigmatic figure and the river's inexplicable benevolence defied the gods' wrathful tempest. Unbeknownst to them, a tale of the extraordinary had begun.</p>
+<hr />
+<p>As the first rays of the sun kissed the horizon, casting a golden glow upon the tranquil waters of the sacred river Ganga, a sage stood immersed in devotion. The sage, adorned in simple saffron robes with his forehead plastered with three horizontal lines of dried ash with a thin line of sandalwood paste bisecting them, stood waist-deep in the flowing currents, his eyes closed in serene concentration. The cool morning breeze gently caressed his weathered face as he prepared to perform the sacred ritual of Sandhyavandanam. He cupped a handful of the sacred water and rubbed his yajnopavita, three sets of three white circular thread that ran diagonally from his left shoulder to his right waist, cleaning it.</p>
+<p>His long black hair cascaded down his back. In his arms, that were unusually muscular and calloused for a brahmin, he held a copper vessel filled with water. With each breath, he recited the ancient chants and hymns, invoking the divine forces that resided in the celestial realms above. The sage's voice, resonant and filled with spiritual energy, harmonized with the rustling leaves and the rhythmic flow of the holy river.</p>
+<p>His face, etched with wisdom and unwavering faith, reflected the profound connection he shared with the divine. The sage's devotion was palpable, as if the very air around him shimmered with a sacred presence. Every movement, every gesture was deliberate and infused with reverence.</p>
+<p>As the sun's radiant disc gradually emerged, casting a brilliant glow upon the water, the sage cupped his hands, raising them to the heavens. With utmost devotion, he began the achamanam, the ritual sipping of water, purifying himself to commune with the gods.</p>
+<p>&quot;Om Achyutaaya Namaha. Om Ananthaya Namaha. Om Govindaya Nahama.&quot;</p>
+<p>With each name called, the sage sipped water flowing through the crease splitting his right wrist. Once finished, he moved on to the next step.</p>
+<p>&quot;Om Keshavaya Namaha,&quot; he said while touching his right cheek with his right thumb.</p>
+<p>&quot;Om Narayanaya Namaha,&quot; he said while touching his left cheek with his right thumb.</p>
+<p>&quot;Om Madhavaya Namaha,&quot; he said while touching his right eye with his ring finger.</p>
+<p>&quot;Om Govindaya Namaha,&quot; he said while touching his left eye with his ring finger.</p>
+<p>&quot;Om Vishnave Namaha,&quot; he said while touching the right side of his nose with his index finger.</p>
+<p>&quot;Om Madhusudhanaya Namaha,&quot; he said while touching the left side his nose with his index finger.</p>
+<p>&quot;Om Trivikramaya Namaha,&quot; he said while touching his right ear with his little finger.</p>
+<p>&quot;Om Vamanaya Namaha,&quot; he said while touching his left ear with his little finger.</p>
+<p>&quot;Om Shridharaya Namaha,&quot; he said while touching his right shoulder with his middle finger.</p>
+<p>&quot;Om Hrishikeshaya Namaha,&quot; he said while touching his left shoulder with his middle finger.</p>
+<p>&quot;Om Padmanabhaya Namaha,&quot; he said while touching his navel with all four of his fingers and thumb folded inwards.</p>
+<p>&quot;Om Damodaraya Namaha,&quot; he said while touching his head with all four of his fingers and thumb folded inwards.</p>
+<p>He pressed his open palms together and held them in prayer against his chest. After taking a long breath, he continued chanting.</p>
+<p>&quot;Om Sankarshanaya Namaha.&quot;</p>
+<p>&quot;Om Vasudevaya Namaha.&quot;</p>
+<p>&quot;Om Pradyumnaya Namaha.&quot;</p>
+<p>&quot;Om Anirudhaya Namaha.&quot;</p>
+<p>&quot;Om Purushothamaya Namaha.&quot;</p>
+<p>&quot;Om Adhokshajaya Namaha.&quot;</p>
+<p>&quot;Om Narasimhaya-&quot;</p>
+<p>At that instant, something collided against the sage's torso, bringing him out of his ascetic trance. His eyes turned into daggers as he looked around for the interloper that dared to interrupt the most sacred of morning prayers. Whoever, or whatever it was, would inevitably face his wrath and would receive its due, if not in this life then maybe the next one, or the one after.</p>
+<p>But his wrath hitched just as the curse reached his lips, because his gaze landed on a figure floating beside him. It was a bald man with pale skin, possibly due to blood loss from the large gaping hole in his abdomen caused by a large sword piercing through, or due to the fact that he was caked in ash. A red birth-mark cut through the left side of his face, over his head and left eye, and another spiralling red birthmarks snaked around the left side of his torso, ending on his left shoulder.</p>
+<p>For all intents and purposes, the man should be dead. But his chest heaved just barely, meaning that life still clung on to him... though only barely. The sage looked towards the direction where the body came from, it was flowing against the current.</p>
+<p>&quot;You want me to save him?&quot; The Sage asked the river. In turn, the water churned and bubbled, returning an affirmation. &quot;Why?&quot;</p>
+<p>To that, the river had no response. But the sage revealed a faint smile and answered his own question, &quot;Have you gotten so tired of carting away the ashes of the dead?&quot;</p>
+<p>&quot;Let me finish, then,&quot; the sage said before continuing his prayers. But he was once again interrupted by the body hitting him, and nudging him out of concentration. He clicked his tongue in annoyance and look at the bright disk that had finally leapt off the horizon. He considered the situation thoroughly before letting out a tired sigh.</p>
+<p>&quot;Forgive me today, oh Lord!&quot; He said out loud. &quot;But they do say that saving one life is more meritorious than constructing a hundred temples.&quot;</p>
+<p>He then dipped underwater, and ascended while lifting the unconscious body over his shoulders. The move was effortless, as though the over a hundred kilo, muscular mountain of a man was as light as a feather. The sage walked out of the river with steady steps, while latching the copper vessel in his hands against a hook by his hips. As he stepped onto the river bank, he once again looked towards the flowing river.</p>
+<p>&quot;This man should have died, and yet he didn't. It was your action, against the prescribed flow of nature, that has saved him. For that, he will owe you. You may not have expected anything in return, but that only raises the righteousness of this act,&quot; the sage orated. He then dipped the tip of his ring finger into the water in the copper vessel by his waist and drew a symbol on the right side of the unconscious man's neck, causing it to glow for a short moment. &quot;This mark will ensure that the man won't forget your act of goodwill. And when the time comes, and you wish to collect the favour you have done him, the mark will assure of his acquiescence.&quot;</p>
+<p>The undulating river subsided and continued its usual behaviour as the sage's words echoed all around.</p>
+<p>After giving one short bow to the Sun above, the River before, and the Earth below, the sage walked towards the dense shrubbery. At that moment, he extended his free right hand outwards, palm open. Through the forestry, a sound of something cutting through the wind resonated, until eventually a hand-axe appeared while spinning dangerously. It whipped straight towards the sage's open palm and its wooden handle landed safely in his grasps.</p>
+<p>As the wood made contact with his skin a mysterious and malicious energy started to resonate from the bloody metal, before coursing through his veins causing them to pop out with a molten red shade. The sage bit down on the painful assault, that targeted both his physique and psyche before spinning the tool in his grasp and hanging it against another hook by his waist line.</p>
+<p>The sage made his way towards the dense shrubbery. As he did so, he started to sing hymns that mellowed the furious winds that rustles the tree branches.</p>
+<pre><code>Om trayambakam yajamahe,
+Sugandhim pushti-vardhanam,
+Uruvarukamiva bandhanan,
+Mrityor mukshiya ma mrtat.
+</code></pre>
+<hr />
+<p>This</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script>
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+
+    </div>
+    </body>
+</html>
