@@ -10,11 +10,11 @@ As minutes stretched into eternity, the storm's fury began to abate. The thunder
 
 From the depths of the ocean, the figure rose once more by an unseen force. He ascended slowly, his ashen form breaking the surface of the water. It was as if some divine hand had reached down to cradle him - it was the river itself. With uncanny grace, the river seemed to take charge. The body, battered and near lifeless, was carried upstream against its current. Against all reason and natural laws, the ashen figure floated serenely, a ghost caressed by the river's mysterious embrace.
 
-The farmers, peering out from their shelters, watched in awe as the enigmatic figure and the river's inexplicable benevolence defied the gods' wrathful tempest. Unbeknownst to them, a tale of the extraordinary had begun.
+The farmers, peering out from their shelters, watched in awe as the enigmatic figure and the river's inexplicable benevolence defied the gods' wrathful tempest.
 
 ____
 
-As the first rays of the sun kissed the horizon, casting a golden glow upon the tranquil waters of the sacred river Ganga, a sage stood immersed in devotion. The sage, adorned in simple saffron robes with his forehead plastered with three horizontal lines of dried ash with a thin line of sandalwood paste bisecting them, stood waist-deep in the flowing currents, his eyes closed in serene concentration. The cool morning breeze gently caressed his weathered face as he prepared to perform the sacred ritual of Sandhyavandanam. He cupped a handful of the sacred water and rubbed his yajnopavita, three sets of three white circular thread that ran diagonally from his left shoulder to his right waist, cleaning it.
+As the first rays of the sun kissed the horizon, casting a golden glow upon the tranquil waters of the sacred river Ganga, a sage stood immersed in devotion. The sage, adorned in simple saffron robes with his forehead plastered with three horizontal lines of dried ash with a thin line of red turmeric bisecting them, stood waist-deep in the flowing currents, his eyes closed in serene concentration. The cool morning breeze gently caressed his weathered face as he prepared to perform the sacred ritual of Sandhyavandanam. He cupped a handful of the sacred water and rubbed his yajnopavita, three sets of three white circular thread that ran diagonally from his left shoulder to his right waist, cleaning it.
 
 His long black hair cascaded down his back. In his arms, that were unusually muscular and calloused for a brahmin, he held a copper vessel filled with water. With each breath, he recited the ancient chants and hymns, invoking the divine forces that resided in the celestial realms above. The sage's voice, resonant and filled with spiritual energy, harmonized with the rustling leaves and the rhythmic flow of the holy river.
 
@@ -22,49 +22,49 @@ His face, etched with wisdom and unwavering faith, reflected the profound connec
 
 As the sun's radiant disc gradually emerged, casting a brilliant glow upon the water, the sage cupped his hands, raising them to the heavens. With utmost devotion, he began the achamanam, the ritual sipping of water, purifying himself to commune with the gods.
 
-"Om Achyutaaya Namaha. Om Ananthaya Namaha. Om Govindaya Nahama."
+"**Om Achyutaaya Namaha. Om Ananthaya Namaha. Om Govindaya Nahama.**"
 
 With each name called, the sage sipped water flowing through the crease splitting his right wrist. Once finished, he moved on to the next step.
 
-"Om Keshavaya Namaha," he said while touching his right cheek with his right thumb.
+"**Om Keshavaya Namaha,**" he said while touching his right cheek with his right thumb.
 
-"Om Narayanaya Namaha," he said while touching his left cheek with his right thumb.
+"**Om Narayanaya Namaha,**" he said while touching his left cheek with his right thumb.
 
-"Om Madhavaya Namaha," he said while touching his right eye with his ring finger.
+"**Om Madhavaya Namaha,**" he said while touching his right eye with his ring finger.
 
-"Om Govindaya Namaha," he said while touching his left eye with his ring finger.
+"**Om Govindaya Namaha,**" he said while touching his left eye with his ring finger.
 
-"Om Vishnave Namaha," he said while touching the right side of his nose with his index finger.
+"**Om Vishnave Namaha,**" he said while touching the right side of his nose with his index finger.
 
-"Om Madhusudhanaya Namaha," he said while touching the left side his nose with his index finger.
+"**Om Madhusudhanaya Namaha,**" he said while touching the left side his nose with his index finger.
 
-"Om Trivikramaya Namaha," he said while touching his right ear with his little finger.
+"**Om Trivikramaya Namaha,**" he said while touching his right ear with his little finger.
 
-"Om Vamanaya Namaha," he said while touching his left ear with his little finger.
+"**Om Vamanaya Namaha,**" he said while touching his left ear with his little finger.
 
-"Om Shridharaya Namaha," he said while touching his right shoulder with his middle finger.
+"**Om Shridharaya Namaha,**" he said while touching his right shoulder with his middle finger.
 
-"Om Hrishikeshaya Namaha," he said while touching his left shoulder with his middle finger.
+"**Om Hrishikeshaya Namaha,**" he said while touching his left shoulder with his middle finger.
 
-"Om Padmanabhaya Namaha," he said while touching his navel with all four of his fingers and thumb folded inwards.
+"**Om Padmanabhaya Namaha,**" he said while touching his navel with all four of his fingers and thumb folded inwards.
 
-"Om Damodaraya Namaha," he said while touching his head with all four of his fingers and thumb folded inwards.
+"**Om Damodaraya Namaha,**" he said while touching his head with all four of his fingers and thumb folded inwards.
 
 He pressed his open palms together and held them in prayer against his chest. After taking a long breath, he continued chanting.
 
-"Om Sankarshanaya Namaha."
+"**Om Sankarshanaya Namaha.**"
 
-"Om Vasudevaya Namaha."
+"**Om Vasudevaya Namaha.**"
 
-"Om Pradyumnaya Namaha."
+"**Om Pradyumnaya Namaha.**"
 
-"Om Anirudhaya Namaha."
+"**Om Anirudhaya Namaha.**"
 
-"Om Purushothamaya Namaha."
+"**Om Purushothamaya Namaha.**"
 
-"Om Adhokshajaya Namaha."
+"**Om Adhokshajaya Namaha.**"
 
-"Om Narasimhaya-"
+"**Om Narasimhaya-**"
 
 At that instant, something collided against the sage's torso, bringing him out of his ascetic trance. His eyes turned into daggers as he looked around for the interloper that dared to interrupt the most sacred of morning prayers. Whoever, or whatever it was, would inevitably face his wrath and would receive its due, if not in this life then maybe the next one, or the one after.
 
@@ -92,13 +92,73 @@ As the wood made contact with his skin a mysterious and malicious energy started
 
 The sage made his way towards the dense shrubbery. As he did so, he started to sing hymns that mellowed the furious winds that rustles the tree branches.
 
-```
-Om trayambakam yajamahe,
-Sugandhim pushti-vardhanam,
-Uruvarukamiva bandhanan,
-Mrityor mukshiya ma mrtat.
-```
+"**Om trayambakam yajamahe, sugandhim pushti-vardhanam,**"  
+_We sacrifice to the Three-eyed One the fragrant, increaser of prosperity._  
+"**Uruvarukamiva bandhanan, mrityor mukshiya ma mrtat.**"  
+_Like a cucumber from its stem, might I be freed from death, not from deathlessness._
 
 ____
 
-This
+"You disappoint me, Spartan," Athena's ethereal form said with a disdainful frown. Then, with a sudden yank, she pulled the Blade of Olympus from his abdomen. Blood spurted and gushed out like a fountain.
+
+As he saw Athena's receding figure, which eventually disappeared as her ethereal form dissipated, Kratos could feel his life wavering, flickering away with each passing second. But he wasn't a patient man.
+
+'My vengeance ends now,' he'd promised himself. But Kratos was a weapon of vengeance.
+
+As long as he lived - as long as the weapon of vengeance still burned - his promise would remain unfulfilled.
+
+With great difficulty, Kratos rolled over, causing another burst of blood to gush out of his body. With all his strength, he dragged himself to the edge of the cliff at the peak of Mount Olympus. He looked over the edge, and saw an endless chasm below. There was probably an end, but the wrathful storms that affected the world around him clouded his vision - and his current state teetering between life and death definitely did not work in his favour.
+
+Kratos let out a long, laboured breath before rolling over and allowing himself to fall off the edge of the cliff. The wind picked up as he fell, cutting into him as his speed grew faster, and faster. Within seconds, he was through the storm clouds that hung below the Mountain. Cold water droplets collided against his skin as he kept falling. He could hear ear-shattering thunder as the charged clouds finally discharged the energy accumulating inside them.
+
+Kratos kept falling. He closed his eyes, anticipating his end. His consciousness drifted away, as the blood loss sent his body into hibernation.
+
+Whatever happened after, Kratos did not know. But he was certain of one thing: he wasn't dead. The last thing he felt was a sudden end of nature's furious assault. Then it was just cold emptiness... Until suddenly, it all came back. His consciousness returned in short flashes. He saw water; he tasted the sea. He saw a furious storm above him. He felt himself drowning.
+
+He let himself go into the sea's enraged grips. Without Poseidon to tame it, the waters were unforgiving - a fitting comeuppance for Kratos, the man who took the life of the God of the Seas.
+
+It was all going to end, finally... Until it didn't. Kratos could sense his breath again. He could hear, he could smell. He could touch!
+
+His eyes burst open, with confusion and unending rage billowing out of them. The first thing he saw, was a face. A man with a long, untamed facial hair and matted hair looking down on him with a blank stare. His forehead was plastered with dried ash and a thin red line cutting through it vertically.
+
+"Welcome to the world of the living," the man said.
+
+Kratos' hand moved subconsciously, with the swiftness of a viper, he grabbed the man by his throat and applied force.
+
+"Why?!" Kratos said with a guttural grunt. "Why did you save me?! Why didn't you just let me die!"
+
+Kratos could feel the rage growing inside him. What of justice? What of his rightful death? For all the sins he'd committed, why was he still alive?!
+
+His palms crushed down with increasing strength, as Kratos let the anger take over. But to his surprise, the man whole life presumably lay in Kratos' palms pushed his thumb into the centre of the choking palm and pressed hard.
+
+Kratos did not anticipate such force coming from a man with such a wiry frame. Like a clam, his palm slowly drifted open, releasing the hairy man.
+
+"Look, I figured that you probably attempted to end your own life," the man said while standing up. Kratos tried to follow, but a sharp pain assaulted his abdomen. Looking down, he saw his stomach bandaged thoroughly. "Given the trajectory of the sword strike it was a coin toss between two possibilities: you were either killed by someone at a much higher elevation compared to you, or you tried to kill yourself. You have a warrior's frame, so the former was less likely..."
+
+"And for the record," the man continued as he returned with a mortar and pestle with a green paste inside it. "I wasn't the one who saved you, technically. I am just the healer. The one who saved you was someone else."
+
+"Who?" Kratos demanded.
+
+"I will introduce you to her, later-"
+
+"Her?"
+
+"Her, him," the man said with a shrug. "They prefer her. She's been a she for a large portion of her existence. But She can be a he too, on very rare occasions," the man rattled.
+
+"Speak sense!" Kratos shot back.
+
+"What matters," the man said while waving his hand. "Is that your debt is to be repaid with her."
+
+"Debt?" Kratos said with a scoff. "I never asked to be saved. Why should I owe anyone anything?"
+
+The man shook his head with a morose frown and said, "A life is a life regardless of whether you deem it valuable or not. It is sinful to blame someone for trying to save another, even if the one being saved did not wish to be. To save someone is a pure act of selflessness, do not disparage it."
+
+Kratos let out an irritated snort and tried to get up from the mat he was laying on.
+
+"Do not move," the man instructed forcefully. "You cannot fathom the difficulty I faced in trying to set your internal organs back to the way they were supposed to be."
+
+"I don't care," Kratos spat back.
+
+"What are you trying to do?"
+
+Kratos ignored the man's 
