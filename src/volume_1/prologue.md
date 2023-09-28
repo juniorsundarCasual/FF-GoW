@@ -109,9 +109,47 @@ As long as he lived - as long as the weapon of vengeance still burned - his prom
 
 With great difficulty, Kratos rolled over, causing another burst of blood to gush out of his body. With all his strength, he dragged himself to the edge of the cliff at the peak of Mount Olympus. He looked over the edge, and saw an endless chasm below. There was probably an end, but the wrathful storms that affected the world around him clouded his vision - and his current state teetering between life and death definitely did not work in his favour.
 
-Kratos let out a long, laboured breath before rolling over and allowing himself to fall off the edge of the cliff. The wind picked up as he fell, cutting into him as his speed grew faster, and faster. Within seconds, he was through the storm clouds that hung below the Mountain. Cold water droplets collided against his skin as he kept falling. He could hear ear-shattering thunder as the charged clouds finally discharged the energy accumulating inside them.
+Kratos let out a long, laboured breath and absorbed the state of the world that remained. His path of vengeance was unforgiving. He was reminded of a fable he heard from a travelling storyteller during his time in the army. A horse roamed a vast and beautiful meadow with great comfort. It was his kingdom. But one day, his kingdom was invaded, by a herd of deer led by a mighty stag. The herd was hungry, and insensitive to the meadow's natural beauty. All they sought was sustenance, and they reaped from the meadow mercilessly. The horse tried to chase them away, but he was unsuccessful. They would leave, disperse, but eventually return and continue their culling. The horse had had enough, and decided to recruit help. He approached the humans, even though his mother had warned him against doing so. She told him they were strong and duplicitous, a very dangerous combination. But the horse lacked wisdom, all he could see was the problem before him. Upon approaching a human, the horse relayed his problem.
 
-Kratos kept falling. He closed his eyes, anticipating his end. His consciousness drifted away, as the blood loss sent his body into hibernation.
+"Oh, that's easy!" The human man said. "Though I will need your help."
+
+"Anything to get those interlopers out of my meadow!" The horse declared.
+
+"If you allow me to saddle you and mount you, I will carry a set of javelin and get rid of those deer for you," the man promised.
+
+And so, the horse willingly surrendered its freedom and adorned the saddle and bridle, and allowed the human to sit atop it.
+
+"What are you doing?" The horse asked as the man placed two dark cups against each of its eyes.
+
+"Have you ever become distracted and lost your momentum while you galloped quickly?" The man asked.
+
+"Once in a while," the horse admitted.
+
+"These help you focus while you move," the man said to assuage the horse's growing discomfort.
+
+And thus, the hunt began. The man and the horse brought down many a deer of the herd. And amongst the first few killed was the mighty stag that would taunt the horse. In its dying breath, the miscreant said.
+
+"You fool! We were just hungry, looking to survive the coming winter. We would have left, and your meadow would have been all yours. But now, you have truly lost your kingdom."
+
+The horse did not understand what the stag said. It was revelling in its victory.
+
+"Now you can take all of it off, right?" The horse asked the human.
+
+"Not yet, our mission still remains incomplete," the human responded. "But first, I need your assistance in moving some things."
+
+The horse didn't question the human, and went on with the assigned task. Days turned to weeks that tuned to months. And many years later, on a particular day while the horse was dragging along something heavy tethered to hit, the blinders fell of.
+
+The first thing the horse saw was a tree. It was familiar with that tree. It was the only tree in its meadow that produced red and juicy apples. But everything around the tree was different. The green fields were yellow, with wheat growing on them instead of vibrant grass and flowers.
+
+"W-What is this?"
+
+The horse turned around and saw that it was tethered to a large, shovel like device - a plough. In some cruel twist of fate, the horse was carrying the very thing that ruined its kingdom.
+
+In its thirst for vengeance, the horse had sacrificed its freedom and lost the very kingdom it sought to protect.
+
+Kratos' world was ending, it was evident. No amount of hope could salvage what remained. And all of this was his own fault. Kratos closed his eyes before rolling over and allowing himself to fall off the edge of the cliff. The wind picked up as he fell, cutting into him as his speed grew faster, and faster. Within seconds, he was through the storm clouds that hung below the Mountain. Cold water droplets collided against his skin as he kept falling. He could hear ear-shattering thunder as the charged clouds finally discharged the energy accumulating inside them.
+
+Kratos kept falling. He pressed his lids even tighter, anticipating his end. His consciousness drifted away, as the blood loss sent his body into hibernation.
 
 Whatever happened after, Kratos did not know. But he was certain of one thing: he wasn't dead. The last thing he felt was a sudden end of nature's furious assault. Then it was just cold emptiness... Until suddenly, it all came back. His consciousness returned in short flashes. He saw water; he tasted the sea. He saw a furious storm above him. He felt himself drowning.
 
@@ -153,7 +191,7 @@ Kratos did not anticipate such force coming from a man with such a wiry frame. L
 
 The man shook his head with a morose frown and said, "A life is a life regardless of whether you deem it valuable or not. It is sinful to blame someone for trying to save another, even if the one being saved did not wish to be. To save someone is a pure act of selflessness, do not disparage it."
 
-Kratos let out an irritated snort and tried to get up from the mat he was laying on.
+Kratos let out an irritated snort and tried to get up from the mat he was laying on. He let out a painful groan while clasping the bandaged stab wound, while stumbling and hobbling.
 
 "Do not move," the man instructed forcefully. "You cannot fathom the difficulty I faced in trying to set your internal organs back to the way they were supposed to be."
 
@@ -161,4 +199,7 @@ Kratos let out an irritated snort and tried to get up from the mat he was laying
 
 "What are you trying to do?"
 
-Kratos ignored the man's 
+Kratos ignored the man's question and pushed through the wooden door to the thatched house he was in. A flood of sunlight hit his face, partially blinding him as his eyes got used to it. The sounds of songbirds and morning insects danced across his ears while his vision finally turned clear. He was deep inside a forest - a beautiful green and serene landscape.
+
+"H-How?" Kratos mumbled. The world he last saw was in tatters. 
+
