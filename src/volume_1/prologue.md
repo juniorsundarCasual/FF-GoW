@@ -1,16 +1,18 @@
 # Prologue
 
-The tranquil serenity of the fertile river delta was shattered as a heavy storm beyond imagining descended upon the vast ocean that bordered the peaceful farmlands. The once bustling fields stood abandoned as the farmers fled into their sturdy homes, terror etched across their faces. Whispers of divine wrath spread like wildfire, a retribution for any sins committed by the residents of the village.
+The tranquil serenity of the fertile river delta was shattered as a heavy storm beyond imagining descended upon the vast ocean that bordered the peaceful farmlands. The once bustling fields stood abandoned as the farmers fled into their sturdy homes, terror etched across their faces. Whispers of divine wrath spread like wildfire. Many posited as the heavens smiting them for their sins both knowingly and unknowingly committed.
 
-Amidst the deafening cacophony of thunder and the relentless downpour, a sudden and brilliant flash of heavenly lightning pierced through the inky sky. It was as though the very fabric of reality had been torn asunder, leaving a jagged rupture in the cosmic tapestry - a gateway into the void that spanned between worlds.
+Amidst the deafening cacophony of thunder and the relentless downpour, a sudden and brilliant flash of heavenly lightning pierced through the inky sky. It was as though the very fabric of reality had been torn asunder, leaving a jagged rupture in the cosmic tapestry. Through it, was nothing but an endless void - a gateway into the chaos that existed in the realm between realms.
 
-From this rupture a figure was ejected, ashen white against the tumultuous backdrop of the storm. His presence was an enigma, his body battered and broken. Crimson trails of blood dripped from a large, gaping wound in his abdomen, painting a macabre masterpiece against his pallid skin. The figure's breathing was laboured and ragged, and he clung to the precipice of death itself. With each struggling breath, he sank into the churning waters below, disappearing beneath the tumultuous waves and swallowed into the unforgiving abyss.
+From this rupture a figure was ejected, ashen white with a spiralling, red birthmark marking his face and body. His presence was an enigma and his body battered and broken. Crimson trails of blood dripped from a large, gaping wound in his abdomen, marring his pallid skin. The figure's breathing was laboured and ragged, and he clung to the precipice of death itself. With each struggling breath, he sank into the churning waters below, disappearing beneath the tumultuous waves and swallowed into the unforgiving abyss.
 
 As minutes stretched into eternity, the storm's fury began to abate. The thunderous roars faded into distant echoes, and the relentless rain transformed into a gentle drizzle. It was then that the impossible occurred.
 
-From the depths of the ocean, the figure rose once more by an unseen force. He ascended slowly, his ashen form breaking the surface of the water. It was as if some divine hand had reached down to cradle him - it was the river itself. With uncanny grace, the river seemed to take charge. The body, battered and near lifeless, was carried upstream against its current. Against all reason and natural laws, the ashen figure floated serenely, a ghost caressed by the river's mysterious embrace.
+From the depths of the ocean, the near-death figure rose once more, carried by an unseen force. He ascended slowly, his ashen form breaking the surface of the water. It was as if the river itself was cradling him. With uncanny grace, the river seemed to take charge. The near-lifeless body was carried upstream against its current. Against all reason and natural laws, the ashen figure floated serenely like a ghost, caressed by the river's mysterious embrace.
 
-The farmers, peering out from their shelters, watched in awe as the enigmatic figure and the river's inexplicable benevolence defied the gods' wrathful tempest.
+The farmers, peering out from their shelters, watched in awe as the enigmatic figure and the river's inexplicable benevolence defied all natural laws. As the days passed and weeks turned into months, the story of a river ghost turned from a folk legend into an old wives' tales, until eventually it faded from existence altogether.
+
+But this was only the beginning of a saga that would shake the very foundations of this bounteous, beautiful and untouched world.
 
 ____
 
@@ -201,5 +203,70 @@ Kratos let out an irritated snort and tried to get up from the mat he was laying
 
 Kratos ignored the man's question and pushed through the wooden door to the thatched house he was in. A flood of sunlight hit his face, partially blinding him as his eyes got used to it. The sounds of songbirds and morning insects danced across his ears while his vision finally turned clear. He was deep inside a forest - a beautiful green and serene landscape.
 
-"H-How?" Kratos mumbled. The world he last saw was in tatters. 
+"H-How?" Kratos mumbled. The world he last saw was in tatters. He turned towards the only other individual in his vicinity and growled angrily, "Undo this witchcraft this instant!"
 
+The man squinted his eyes in disbelief and retorted, "It seems the blood loss has affected your brain."
+
+"What?!"
+
+"What makes you think you are being subjected to witchcraft?"
+
+Kratos pointed aggressively at the beautiful scenery and yelled, "The world! It- It should have ended..."
+
+"As evident with what you can sense before you, the world is very much intact," the man denied. "Why do you believe the world to have ended?"
+
+"Because-" Kratos started, but upon absorbing the apparent reality before him, he was stumped. He had no answers. Maybe it was witchcraft, maybe it wasn't. But in all honesty, it didn't matter to him. He wanted this to be real - he sorely wished for it to be the true reality because deep down, Kratos wished to undo everything. Every decision he made, every word spoken, everything! He wanted to take it all back!
+
+"Because...?" The man parrotted.
+
+"You should have left me to die," Kratos spat out.
+
+To that, the man did not respond. He merely looked at Kratos with an evaluating gaze that unnerving him. For a minute, Kratos felt like his entire history was being unravelled before the man's eyes - he felt naked.
+
+"Killing yourself isn't the way out," the man said with a hint of empathy in his voice. "If you wish to atone, then live. By dying, you simply transfer the sins of your current lifetime to your next. Worse yet, you may not remember the sins of your past lifetime after your rebirth, and thus you will have doomed a truly innocent being to a life worse than death."
+
+"What are you blabbering about?" Kratos snapped back with furrowed brows.
+
+"No man inherits the good or evil of another. The fruits reaped will be of the seed that is sowed, be it in this lifetime or next. And the quality of the fruit is determined by the quality of the seed," the man preached.
+
+"You speak baselessly," Kratos accused. "You know nothing of me!"
+
+"No? But I could recognise those eyes anywhere," the man retaliated with a bitter smile. He then quickly shook his head and cleared his face of morose reminiscence and said, "Look at what you've done now! Your wound his bleeding again."
+
+Kratos snarled while hobbling away.
+
+"Where are you going?" The man called out.
+
+Kratos did not answer.
+
+"You will die," the man reminded.
+
+"Then that will be my fate," Kratos said plainly.
+
+"I cannot let that happen," the man said as he started to follow Kratos.
+
+"Leave me be!" Kratos yelled over his shoulder while suppressing a pained groan. But he could see that the man was not letting up. Kratos did not have the energy to argue with the man, so he kept walking onwards through the trees.
+
+He kept walking, stumbling intermittently, yet trudging through the forest with great difficulty. This went on for what seemed like hours, until eventually, Kratos could see a clearing through the treeline.
+
+As he finally broke through the shrubbery, Kratos was surprised to see a bustling farming village before him. Men wearing ragged cloth wrapped around their legs worked tirelessly on the fields, while women garbed in colourful cotton clothing spun around them carried baskets of harvested grain to and fro. Kids assisted and played around, their joyous voices elicited an overall aura of prosperity and happiness.
+
+One of the farmers looked up and cleaned his brow of sweat using the rag hanging behind him, when his eyes bet Kratos'. The man quickly rushed towards the pale figure, worry etched on his face.
+
+"&@$@%!" The man said. Kratos squinted and leaned closer.
+
+"&@$@%@#@?" This was a question, Kratos was sure of it. But he did not understand a word. At that moment, the man's eyes looked past Kratos and landed on the long-haired man following him. The farmer quickly bowed and rattled off a few words, to which the long-haired man raised a palm and responded with a single phrase as a blessing of sorts.
+
+"You aren't from here," the man said to Kratos in words he could understand. "You don't speak their language, hence you cannot communicate with them."
+
+"But you know Greek?" Kratos exclaimed.
+
+"I don't know Greek. I can speak to you, I can understand you, but I don't speak the same language you do," the man said cryptically but with a serious expression. He then tapped his chest and his forehead before tapping Kratos' chest and forehead, "I can understand what goes on in here, and in here. And I can communicate directly to you through that. The same way, I can talk to animals, the trees, the wind and the sea."
+
+"Sorcery!" Kratos snapped derisively.
+
+"Not sorcery!" the man said with an equally angry snarl. "I have simply learned to speak the language of the world. Everything in the world communicates, I have learned how to decipher that and respond in turn."
+
+The man then greeted the rest of the peasant-folk gathering around with reverent gazes on their faces before turning back towards the forest. "Let us return. If you wish to survive here, the least you need to know is to express your needs and wants. I will teach you to read, speak and write."
+
+With that said, the man disappeared into the shrubbery, leaving Kratos alone. He looked at the dispersing crowd and tried to absorb the illegible mumbling resonating amidst them. After a long moment of painful contemplation, Kratos too turned and walked down the same path as the long-haired man.
