@@ -1,0 +1,44 @@
+editor: visual
+format:
+  html:
+    css: styles.css
+    theme:
+      light:
+      - cosmo
+      - theme.scss
+    toc: true
+freeze: false
+project:
+  output-dir: docs
+  type: website
+website:
+  navbar:
+    background: dark
+    collapse-below: lg
+    left:
+    - href: volume-1/index.qmd
+      text: Volume 1
+    - href: volume-2/index.qmd
+      text: Volume 2
+  page-footer: Junior Sundar
+  page-navigation: true
+  sidebar:
+  - align: left
+    collapse-level: 2
+    contents:
+    - href: volume-2/chapter-1.qmd
+      text: Chapter 1
+    id: volume-2
+    style: floating
+    title: Volume 2
+  - align: left
+    collapse-level: 2
+    contents:
+    - href: volume-1/chapter-1.qmd
+      text: Chapter 1
+    - href: volume-1/chapter-2.qmd
+      text: Chapter 2
+    id: volume-1
+    style: floating
+    title: Volume 1 - Sin of Wrath
+  title: God of War

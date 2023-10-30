@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    theme:
+      # dark: [cosmo, theme-dark.scss]
+      light: [cosmo, theme.scss]
+    css: styles.css
+    toc: true
+
+freeze: false
+
+editor: visual
+
+website:
+  title: "God of War"
+  navbar:
+    background: dark
+    collapse-below: lg
+    left:
+      - href: volume-1/index.qmd
+        text: "Volume 1"
+      - href: volume-2/index.qmd
+        text: "Volume 2"
+
+  sidebar:
+    - id: volume-1
+      title: "Volume 1"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+      - text: "Chapter 1 | Prologue"
+        href: volume-1/chapter-1.qmd
+
+    - id: volume-2
+      title: "Volume 2"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+      - text: "Chapter 1"
+        href: volume-2/chapter-1.qmd

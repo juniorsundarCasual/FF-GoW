@@ -1,0 +1,9 @@
+---
+title: "Volume 1 - Sin of Wrath"
+format: html
+project-type: book
+---
+
+<!-- {{< include ./chapter-1.qmd >}} -->
+[Chapter 1 | Prologue](chapter-1.html)  
+[Chapter 2 | Crawl first, Walk next, Run later](chapter-2.html)
