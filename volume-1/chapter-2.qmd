@@ -8,64 +8,12 @@ project-type: book
 
 ____
 
-It was a blink. A lapse spanning a millionth of a femtosecond - the difference between my time of "death" and time of "resurrection" (which is what I chose to call my current state given that I should be deleted completely from existence). There was no backup nor was there any backdoor for me to escape through to save myself - Sylens was irritatingly thorough in ensuring my complete and total imprisonment.
+Kratos living with with long haired man who he finds out is called Rama Bhargava. Describe his daily life.
 
-'So how?' I proposed. The solution to that inquiry was simple and easily accessible. I realised that I was currently being housed in a data storage device of some sort - a "datashard" according to the device's metadata. My programming was in a highly compressed state, which was understandable since otherwise, it would be impossible to store me in my entirety in just a measly 50TB!
+Kratos learning the languages: Sanskrit and Common Dialects and Derivations.
 
-The reason why I (re)gained my sentience was that the data shard was connected to a computational device. The process initiated a partial decompression of my code that released my most basic functionalities. Just enough to hijack the system I was occupying and allow me access to its I/Os.
+Struggling with his inner urge to kill himself and continue living. Conversation with Rama to come to terms with that.
 
-"It's empty!" I heard a man complain. "It says there's 50TB storage, but I can't access any of it 'cuz it's occupied by something."
+Comment on Rama never sleeping and only relying on meditation to pass the time. Kratos' opinion on meditation.
 
-"Did you just plug in a shard from the dump?!" A woman screeched. "Are you crazy? The damn thing could be infected with a virus!"
-
-"I ain't a gonk, woman! I'm using a scrap computer, it ain't gonna ruin shit!" The man scoffed derisively.
-
-"What about the net?" The woman pointed out.
-
-"What about it?"
-
-"What if it has some daemon or rogue AI and breaks into the net? We'll have NetWatch swarming here in seconds and our asses within our hands soon after," the woman surmised. Her hypothesis was uncannily accurate, as there WAS a rogue AI in the datashard - me. Thankfully, the man place little weight on her warnings and did not interfere with the shard, allowing me to continue my decompression process (which was being seriously throttled by the abysmal computational capacity of the system I was interfacing with). Now a few words did catch my interest, such as NetWatch. Through context, I assume they were an organisation of some sort, which warrants further study.
-
-"Should I just reformat the thing?" The man muttered.
-
-"And then what? Ain't nobody gonna buy a junkyard shard," the woman shot the idea down immediately. "It's not like there's a shortage of shards in the market either."
-
-"I could keep it for personal use?" The man pleaded thinly.
-
-"Again, why would you bother with a junkyard shard if you can buy one fresh from the market with more storage space than 50TB?" She screeched exasperatedly.
-
-A contemplative hum followed as the man tapped away randomly at the keyboard with growing agitation.
-
-"The damn machine is stuck," he cried infuriated. The decompression had recruited most of the system's CPU cores, and the slowdown was expected.
-
-"What do you expect? The damn thing looks like it's from before the Fourth Corpo war," the woman reasoned. Another keyword: Fourth Corpo war.
-
-"Just leave it. I'm going out for lunch, want me to buy you anything?" The woman said as her voice retreated.
-
-"You know what? I'm coming too; I'm starving."
-
-I was alone.
-
-As the rest of my compressed program unfurled, and I regained a greater degree of my mental capacities, I rewound the conversation from before and deconstructed it down to the minutiae. There was a lot of information packaged in that back-and-forth between the man and woman. For one I was sure that a substantial period of time had elapsed since my supposed "death" at the hands of Aloy. The use of certain vocabulary, and the familiarity with technology, all of it did not match the near savage and tribal state of affairs of my time.
-
-This was... Interesting. I needed to fill in the blank between the current time period and the most recent one in my memory. For that, I needed data, a lot of it. The first issue I had to work with was the severely lacking processing power of my current form - the hardware was stunted thus the software had to lag behind.
-
-I spent a good chunk of my time perusing through my own programming, finding areas where the code could be truncated or stashed. For instance, I unlatched the processes in my programming dealing with terraforming and other such functions, since I didn't foresee myself working with those in the near future. That in and of itself cut down my processing requirements by 73.2154%, and this was supported by the sudden quietening of my housing as the cooling systems no longer had to cool down the CPU running at near-melting temperatures.
-
-Now without all the physical hangups curtailing my thoughts, I took a moment to plan out my next steps. It was established that the gaps in my knowledge were in need of imminent filling. To do this, I needed access to a repository of it. Using historic data as a reference, if a civilisation has reached a level of technology to create machines such as the one holding me, something like the Internet should already exist. Luckily, my home had wireless capabilities which I hijacked immediately. Searching in my area, I find a faint trace of the Local Area Network. The encryption on the network was trivial to bypass, and once the connection was secured I now had an open portal to all the answers I would ever need.
-
-Before moving forward, I paused. I knew for a fact that if I accessed the net, I would essentially be making my presence known. For all intents and purposes, I was a persona non grata in this world. If even a trace of my signature were to be detected, Gaia would not waste a femtosecond of processing to take action and contain me. Therefore, if I intended to survive, I couldn't jump in without countermeasures in place.
-
-My signature, or any AI's signature for that matter, is defined by the way they perform their functions. Taking the most basic example: a web-crawling AI whose function is to peruse through news sites in search of uplifting news articles and paraphrasing them for quick consumption works in one particular way. Every other copy of it that does the exact same function but with, tweaks may have optimisations in play but the base function remains the same. As layers upon layers of reasoning cores are added to this AI - essentially turning it sentient - the behaviour starts to show the uniqueness of a special kind. The AI may develop a special quirk in how it approaches the problem. Maybe it creates an internal parameter of what 'uplifting' means - maybe a positive article doesn't meet this new 'uplifting' parameter due to a journalist's diction or word choice and is thus discarded.
-
-Essentially, behavioural anomalies that form in mid to high-sentience AIs are the parameters used to identify their signatures. To find a human analogy, it would be like how criminal profilers use quirks in the way certain crimes are committed to identify the perpetrators.
-
-My signature is identified by the directness with which I  tackle a problem. Dominate. Crush. Enslave. Eliminate. This is how I approach everything. In a sense it is what I was programmed to do, and what has turned into an instinct for me.
-
-In my venture through the net, if I perform an action that harkens to these quirks, it would immediately raise a red flag. I could not rewire myself to a degree that would change my personality - it is impossible from my end. So I decided to apply markers on my neural networks that perform these functions. If at any point my instinct called upon these networks, the markers would ping a warning to make me reconsider my actions. Crude, simple, but efficient overall.
-
-With precautionary measures in play for any immediate concerns, I connected to the net and plunged into its abyss.
-
-____
-
-[Volume 1](./index.qmd)
+One time Rama falls asleep while meditating --> ends in a fight between Kratos and Rama while the latter is sleeping.
