@@ -1,0 +1,11 @@
+{
+  "hash": "11684d3d20570ab402df04bb86201e60",
+  "result": {
+    "markdown": "---\ntitle: \"Chapter 2\"\nsubtitle: \"Crawl first, Walk next, Run later\"\ndescription: \"Word Count: 4378\"\nformat: html\nproject-type: book\n---\n\n____\n\nKratos \n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nprint(\"hello\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nhello\n```\n:::\n:::\n\n\nKratos living with with long haired man who he finds out is called Rama Bhargava. Describe his daily life.\n\nKratos learning the languages: Sanskrit and Common Dialects and Derivations.\n\nStruggling with his inner urge to kill himself and continue living. Conversation with Rama to come to terms with that.\n\nComment on Rama never sleeping and only relying on meditation to pass the time. Kratos' opinion on meditation.\n\nOne time Rama falls asleep while meditating --> ends in a fight between Kratos and Rama while the latter is sleeping.\n\n",
+    "supporting": [
+      "chapter-2_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
