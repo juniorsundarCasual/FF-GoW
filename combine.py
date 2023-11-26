@@ -1,3 +1,8 @@
+"""
+This is a compilation python file.
+Build this before quarto render.
+"""
+
 import yaml
 import os
 
