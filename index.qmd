@@ -1,7 +1,0 @@
----
-title: "God of War"
-format: html
-project-type: book
----
-
-

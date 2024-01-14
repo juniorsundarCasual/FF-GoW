@@ -1,3 +1,6 @@
-book
-
-./.quarto/
+node_modules
+.dendron.*
+build
+seeds
+.next
+pods/service-connections

@@ -1,12 +1,10 @@
 ---
-title: "Chapter 1"
-subtitle: "Prologue"
-description: "Word Count: 4378"
-format: html
-project-type: book
+id: vv57cztljlg4jrekx71v2wm
+title: Chapter 1 - Prologue
+desc: ''
+updated: 1705252864076
+created: 1705252493208
 ---
-
-____
 
 The tranquil serenity of the fertile river delta was shattered as a heavy storm beyond imagining descended upon the vast ocean that bordered the peaceful farmlands. The once bustling fields stood abandoned as the farmers fled into their sturdy homes, terror etched across their faces. Whispers of divine wrath spread like wildfire. Many posited as the heavens smiting them for their sins both knowingly and unknowingly committed.
 
@@ -102,9 +100,9 @@ As the wood made contact with his skin a mysterious and malicious energy started
 
 The sage made his way towards the dense shrubbery. As he did so, he started to sing hymns that mellowed the furious winds that rustles the tree branches.
 
-"**Om trayambakam yajamahe, sugandhim pushti-vardhanam,**"  
-_We sacrifice to the Three-eyed One the fragrant, increaser of prosperity._  
-"**Uruvarukamiva bandhanan, mrityor mukshiya ma mrtat.**"  
+"**Om trayambakam yajamahe, sugandhim pushti-vardhanam,**"
+_We sacrifice to the Three-eyed One the fragrant, increaser of prosperity._
+"**Uruvarukamiva bandhanan, mrityor mukshiya ma mrtat.**"
 _Like a cucumber from its stem, might I be freed from death, not from deathlessness._
 
 ____
@@ -280,3 +278,7 @@ One of the farmers looked up and cleaned his brow of sweat using the rag hanging
 The man then greeted the rest of the peasant-folk gathering around with reverent gazes on their faces before turning back towards the forest. "Let us return. If you wish to survive here, the least you need to know is to express your needs and wants. I will teach you to read, speak and write."
 
 With that said, the man disappeared into the shrubbery, leaving Kratos alone. He looked at the dispersing crowd and tried to absorb the illegible mumbling resonating amidst them. After a long moment of painful contemplation, Kratos too turned and walked down the same path as the long-haired man.
+
+____
+
+**Next**: [[volume-1.chapter-2]]

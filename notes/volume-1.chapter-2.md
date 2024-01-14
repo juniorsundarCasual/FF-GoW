@@ -1,12 +1,10 @@
 ---
-title: "Chapter 2"
-subtitle: "Crawl first, Walk next, Run later"
-description: "Word Count: 4378"
-format: html
-project-type: book
+id: 8n90s0dfrgq29mgsgnshbkl
+title: Chapter 2 - Crawl First, Walk Next, Run Later
+desc: ''
+updated: 1705255659393
+created: 1705252689774
 ---
-
-____
 
 What is living a "normal" life like?
 
@@ -66,7 +64,7 @@ Kratos growled irritatedly and barked, "That's how I pronounced it!"
 
 "Who decides my purpose," Kratos murmured.
 
-"If you were part of our cycle of reincarnation," Rama said while raising his arms towards the sky, "Then the world itself decides for you. But since that isn't the case here, well, I guess you are free to decide what your purpose in life is supposed to be."
+"If you were part of our cycle of reincarnation," Rama said while raising his arms towards the skym "Then the world itself decides for you. But since that isn't the case here, well, I guess you are free to decide what your purpose in life is supposed to be."
 
 "The language I'm teaching you right now is called Sanskrit," Rama continued as he pulled back the slate board. "It is said to be the language spoken by the world itself. It is said that if you can formulate a prose so profound in Sanskrit, the world will respond in kind. The script I am teaching you is just the surface. The beauty of the language runs deep. I'm afraid even I cannot teach you all about it."
 
@@ -86,15 +84,57 @@ He pointed at Kratos and revealed a mischeavous smile, "In our case, I am the tr
 
 "You are a weird man," Kratos commented. "We will talk no more. Continue your lesson now."
 
-In turn, the man let out an uproarious laught and continued writing and sounding out the letters.
-
 ____
 
 "Two. Apples." Kratos said to the panicking vendor standing behind his mobile stall.
 
 "#%!%$& apples are, one cowrie shell each," the man answered while raising two shivering fingers. Kratos let out a growl before producing the shells to complete the transaction. He then accepted the offered fruits and bit into one. A faint, satisfied smile caused the corner of lips to quirk upwards slightly as a thin trace of juice dripped down the side of his lips.
 
-Kratos missed the minor joys in life. Even a simple treat like an apple could tickle his senses to such a degree that 
+The sweetness of the apple lingered on Kratos' tongue. He took another look at the red fruit in his hands. It appeared the same as the apples in Greece. It was the same size, the same vibrant shade of red. And the sound it made as he bit into it echoed with the same lively crack as the ones in Greece. But why was it that this one tasted infinitely better than the ones from his home?
+
+He took another bite, and let himself drown in the sweetness. Maybe it was the lack of purpose, the lack of something that needed to be done, that let him just dwell in the small things. Looking up, Kratos was once again enamoured by the vibrant greenery. He was sure that the Greek forests were just as lively an warm, but back home, Kratos wasn't allowed teh time or freedom to just look at them.
+
+Kratos' feet moved forward on their own. He observed the birds prancing around between branches, building nests, courting each other. He followed the chatter of the squirrels as they carried their favourite nuts to their horde. He caught the infrequent deers peeking between the trees, running away as he approached them. A strange sense of calmness washed over Kratos, a feeling he had only ever felt once before and that too when was toeing the line between life and death.
+
+Another bite, and the apple was finished. Kratos tossed the core aside and chomped down on the second one. But as he took the bite, he noticed that the forest had terminated. Technically, it wasn't finished, it was simply a break in continuity. A break that was caused by a massive ravine that cleft the forest in two.
+
+Kratos approached the ravine uninhibitedly. He approached the edge and looked over into the near endless darkness that welcomed him from below.
+
+His foot crept closer to the edge, causing a few small rocks to dislodge from beneath him.
+
+Kratos raised the half eaten apple in front of his palm. As his eyes focused on the red, it started to ooze and drip out as a viscous fluid, coating his hand crimson.
+
+He blinked.
+
+And he was no longer holding an apple in his hand. In its place, Kratos saw the decapitated, hollow-eyed head of Helios hanging.
+
+Kratos' grip loosened, and the head tumbled down the cliff with a sickening squelch as it collided against the rock face repeatedly.
+
+Looking around, Kratos saw the green forest turn red as fires started to swallow all life, and the sky turn gray as storm clouds started to swallow the sun ravenously.
+
+He stood amidst the collapsing world and slowly closed his eyes.
+
+His right leg extended forward, levitating precariously in midair. Slowly, he started to shift his weight.
+
+"There's nothing down there."
+
+The voice brought Kratos back from his trance. The world wasn't burning, and the heaven's weren't collapsing around him.
+
+He turned his head and saw Rama walking out from the forest. The man approached the ravine, beside Kratos and looked down.
+
+"There's nothing down there," he repeated. "I've checked."
+
+He then patted Kratos' back and added, "You see the struggle isn't in going down, but coming back up. The rock walls are rather smooth and finding proper hold is difficult."
+
+"You talk as though you have done this before," Kratos commented, to which the man returned a dull gaze and a empathetic sigh.
+
+"Lunch is ready," Rama diverted. "Come quickly or else it will grow cold. And don't do anything stupid."
+
+And with that, the man strolled back into the forest and disappeared between the treeline.
+
+Kratos took one last look into the ravine and narrowed his eyes. Surprisingly, he could now see the bottom and he could see the half-eaten apple shimmering in the darkness, intact.
+
+
 
 Kratos living with with long haired man who he finds out is called Rama Bhargava. Describe his daily life.
 

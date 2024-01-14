@@ -1,8 +1,0 @@
----
-title: "Volume 2"
-format: html
-project-type: book
----
-
-<!-- {{< include ./chapter-1.qmd >}} -->
-[Chapter 1](chapter-1.html)
